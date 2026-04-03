@@ -454,3 +454,6 @@ For a full walkthrough of each playbook's structure and script arguments, see `I
 | `Instruction_files/Server_Setup_Instructions.txt` | Step-by-step guide to provisioning all 7 GCP VMs, configuring SSH, installing Ansible, and running the initial setup |
 | `Instruction_files/Script_Playbook_Instructions.txt` | Detailed explanation of every playbook and script — purpose, parameters, expected behavior, and usage examples |
 | `Instruction_files/common_issues_troubleshooting.txt` | Troubleshooting guide covering the most common errors encountered during setup and playbook execution |
+
+## Timeline:
+This project was originally completed in December 2023, as one of my first academic finals.
